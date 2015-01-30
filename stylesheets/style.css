@@ -1,0 +1,49 @@
+body {
+  margin-top: 30px;
+}
+.navbar-inverse .navbar-brand {
+  font-family: 'Indie+Flower', cursive;
+  font-size: 36px;
+  color: #ff3061;
+  padding-top: 20px;
+}
+h1.title {
+  padding: 0 10px 10px 0;
+  font-family: 'Indie+Flower';
+}
+
+h2 {
+  font-size: 22px;
+}
+.rating {
+  font-size: 0.4em;
+  text-transform: uppercase;
+  border: 1px solid #ccc;
+  padding: 4px;
+  vertical-align: middle;
+}
+.summary h2, .actors h2 {
+  margin-top: 0;
+}
+.actors li {
+  line-height: 24px;
+}
+.review {
+  margin-bottom: 30px;
+}
+
+}
+.explore {
+  margin-bottom: 50px;
+}
+
+.jumbotron {
+padding: 30px 15px;
+margin-bottom: 30px;
+color: Black;
+background-color: #eee;
+background-image: url(../images/field.jpg);
+background-position: center center;
+background-size: cover;
+
+}
