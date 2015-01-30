@@ -29,13 +29,14 @@ h2 {
   line-height: 24px;
 }
 .review {
-  margin-bottom: 30px;
+  padding-bottom: 100px;
 }
 
 }
-.explore {
-  margin-bottom: 50px;
+.skill {
+  padding-bottom: 20px;
 }
+
 
 .jumbotron {
 padding: 30px 15px;
@@ -45,5 +46,8 @@ background-color: #eee;
 background-image: url(../images/field.jpg);
 background-position: center center;
 background-size: cover;
+
+}
+
 
 }
