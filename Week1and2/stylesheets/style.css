@@ -1,0 +1,44 @@
+  body {
+  width: 960px;
+  margin: 0 auto;
+  font-family: helvetica neue, arial, sans-serif;
+  color: black;
+  background-color: black;
+  background-image: url(../images/field.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  font-size: 18px;
+}
+h2 {
+  border-bottom: 1px solid gray;
+}
+a { 
+  color: Purple;
+}
+a:hover {
+  color: white;
+}
+p, li { 
+  font-size: 18px;
+  line-height: 24px;
+}
+img {
+  float: right;
+  padding: 10px;
+}
+#title {
+  float: left;
+}
+#Ice bucket {
+  float: right;
+
+}
+
+#summary {
+  clear: both;
+  background-color: purple;
+  padding: 20px;
+  border: 1px solid black;
+  margin-top: 20px;
+} 
